@@ -1,5 +1,5 @@
 import SectionHeader from "../common/section-header";
-import { Icon, StarIcon, UserStarIcon } from "lucide-react";
+import { Star, UserStar } from "lucide-react";
 import { Button } from "../ui/button";
 import { Badge } from "../ui/badge";
 // import ProductCard from "../products/product-card";
@@ -10,7 +10,7 @@ export default function FeaturedServices() {
             <div className="flex flex-row items-center justify-center">
                 <SectionHeader
                     title="Featured Services"
-                    icon={<StarIcon className="w-6 h-6 text-yellow-500" />}
+                    icon={<Star className="w-6 h-6 text-yellow-500" />}
                     description="Check out our featured services"
                 />
             </div>
@@ -42,7 +42,7 @@ const featuredServices = [
         id: 1,
         title: "Featured Services 1",
         description: "Check out our featured services",
-        icon: <UserStarIcon className="w-6 h-6 text-yellow-500" />,
+        icon: <UserStar className="w-6 h-6 text-yellow-500" />,
         price: "$100",
         isPopular: false,
         whatWeOffer: [
@@ -55,7 +55,7 @@ const featuredServices = [
         id: 2,
         title: "Featured Services 2",
         description: "Check out our featured services",
-        icon: <UserStarIcon className="w-6 h-6 text-yellow-500" />,
+        icon: <UserStar className="w-6 h-6 text-yellow-500" />,
         price: "$200",
         isPopular: true,
         whatWeOffer: [
@@ -68,7 +68,7 @@ const featuredServices = [
         id: 3,
         title: "Featured Services 3",
         description: "Check out our featured services",
-        icon: <UserStarIcon className="w-6 h-6 text-yellow-500" />,
+        icon: <UserStar className="w-6 h-6 text-yellow-500" />,
         price: "$300",
         isPopular: false,
         whatWeOffer: [

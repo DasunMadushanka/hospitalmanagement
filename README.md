@@ -49,3 +49,14 @@ A modern, robust Hospital Management System built with the latest web technologi
 3.  Set up your `.env` file with Clerk and Neon credentials.
 4.  Push the database schema: `npx drizzle-kit push`.
 5.  Run the development server: `npm run dev`.
+
+<img width="1892" height="853" alt="image" src="https://github.com/user-attachments/assets/d29116f1-c3b0-47e6-a0e2-ca9aa611416a" />
+
+<img width="1887" height="846" alt="image" src="https://github.com/user-attachments/assets/d279ac6d-078b-432c-867e-07a7b5e38e53" />
+
+<img width="1902" height="849" alt="image" src="https://github.com/user-attachments/assets/303ccafb-6cf3-4149-a89b-d35907a7e303" />
+
+<img width="1913" height="855" alt="image" src="https://github.com/user-attachments/assets/6eef4a67-424c-40d4-8dfb-b5e1f0b2a254" />
+
+
+
